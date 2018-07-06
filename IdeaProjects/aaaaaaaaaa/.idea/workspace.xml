@@ -1,0 +1,386 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ff2addbf-e29f-4ae1-854a-2ef24f2781f0" name="Default" comment="第一次添加">
+      <change afterPath="$APPLICATION_CONFIG_DIR$/codestyles/Default.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/disabled_plugins.txt" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/idea.key" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/colors.scheme.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/debugger.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/images.support.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/jdk.table.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/laf.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/options.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/path.macros.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/project.default.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjects.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/stubIndex.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/updates.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/usage.statistics.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_PLUGINS_DIR$/availables.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_PLUGINS_DIR$/availables.xml.etag" afterDir="false" />
+      <change afterPath="$APPLICATION_PLUGINS_DIR$/extensions.xml" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/port" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/port.lock" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/tasks/demo.contexts.zip" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/tasks/demo.tasks.zip" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/tasks/kaa.contexts.zip" afterDir="false" />
+      <change afterPath="$APPLICATION_CONFIG_DIR$/tasks/kaa.tasks.zip" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/.home" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/LocalHistory/changes.storageData" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/LocalHistory/changes.storageRecordIndex" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/attrib.dat.storageData" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/attrib.dat.storageRecordIndex" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/content.dat.storageData" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/content.dat.storageRecordIndex" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/contentHashes.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/contentHashes.dat.keystream" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/contentHashes.dat.keystream.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/contentHashes.dat.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/contentHashes.dat_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/contentHashes.dat_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/names.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/names.dat.keystream" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/names.dat.keystream.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/names.dat.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/names.dat_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/names.dat_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/records.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/records.dat.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/vfs_enum_attrib.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/vfs_enum_css_dialects.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/caches/vfs_enum_sql_dialects_and_data_sources.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/compile-server/demo_855b11cf/stale_outputs_checked" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/conversion/kaaf468e48.xml" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/frameworks/detection/demo.d9881d06/files" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/frameworks/detection/detectors-registry.dat" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/frameworks/detection/kaa.f468e48/files" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/frameworks/detection/kaa.f468e48/files.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/fus-sessions/fus-previous-state.data" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/fus-sessions/fus-sent-data.json" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/bytecodeanalysis/values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/bytecodeanalysis/values.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/bytecodeanalysis/values.values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/bytecodeanalysis/values.values.at" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/bytecodeanalysis/values.values.s" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/bytecodeanalysis/values_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/bytecodeanalysis/values_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/duplicatesindex/values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/duplicatesindex/values.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/hashesWithFileType" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/hashesWithFileType.keystream" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/hashesWithFileType.keystream.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/hashesWithFileType.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/hashesWithFileType_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/hashesWithFileType_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/idindex/values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/idindex/values.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/idindex/values.values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/idindex/values.values.at" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/idindex/values.values.s" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/idindex/values_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/idindex/values_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input.keystream" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input.keystream.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input.values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input.values.at" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input.values.s" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.names" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.names.keystream" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.names.keystream.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.names.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.names_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.names_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.version" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/todoindex/values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/todoindex/values.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/todoindex/values.values.at" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/todoindex/values_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/todoindex/values_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/trigram.index/values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/trigram.index/values.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/trigram.index/values.values" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/trigram.index/values.values.at" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/trigram.index/values.values.s" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/trigram.index/values_i" afterDir="false" />
+      <change afterPath="$USER_HOME$/.IntelliJIdea2018.1/system/index/.persistent/trigram.index/values_i.len" afterDir="false" />
+      <change afterPath="$USER_HOME$/.bash_history" afterDir="false" />
+      <change afterPath="$USER_HOME$/.gitconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aaaaaaaaaa.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/LIanXi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/java/com/example/demo/DemoApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/main/resources/application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../demo/src/test/java/com/example/demo/DemoApplicationTests.java" afterDir="false" />
+      <change afterPath="$USER_HOME$/NTUSER.DAT{7b4f0a82-a76e-11e7-9ee0-9ae463dfb151}.TM.blf" afterDir="false" />
+      <change afterPath="$USER_HOME$/NTUSER.DAT{7b4f0a82-a76e-11e7-9ee0-9ae463dfb151}.TMContainer00000000000000000001.regtrans-ms" afterDir="false" />
+      <change afterPath="$USER_HOME$/NTUSER.DAT{7b4f0a82-a76e-11e7-9ee0-9ae463dfb151}.TMContainer00000000000000000002.regtrans-ms" afterDir="false" />
+      <change afterPath="$USER_HOME$/ntuser.ini" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="LIanXi.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/LIanXi.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#125#126#0" expanded="true" />
+                <element signature="e#152#153#0" expanded="true" />
+                <element signature="e#192#193#0" expanded="true" />
+                <element signature="e#224#225#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#304#305#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="aaa" />
+        <option value="huyinsen/dome" />
+        <option value="huyinsen" />
+        <option value="978411665@qq.com" />
+        <option value="aaaaaa" />
+        <option value="asron" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/LIanXi.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="aaaaaaaaaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaaaaaaaaa" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="aaaaaaaaaa" type="b2602c69:ProjectViewProjectNode" />
+              <item name="aaaaaaaaaa" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff2addbf-e29f-4ae1-854a-2ef24f2781f0" name="Default" comment="" />
+      <created>1530847409028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530847409028</updated>
+      <workItem from="1530847418520" duration="1384000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1384000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="68" y="20" width="1400" height="776" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49925485" weight="0.3286385" />
+      <window_info anchor="bottom" id="Messages" sideWeight="0.49925485" weight="0.1517997" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info id="Image Layers" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="bottom" id="Event Log" sideWeight="0.5014903" side_tool="true" visible="true" weight="0.20187794" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info active="true" anchor="bottom" id="Version Control" sideWeight="0.49850968" visible="true" weight="0.20187794" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Capture Tool" />
+      <window_info id="Designer" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962743" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="第一次添加" />
+    <option name="LAST_COMMIT_MESSAGE" value="第一次添加" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/LIanXi.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#125#126#0" expanded="true" />
+            <element signature="e#152#153#0" expanded="true" />
+            <element signature="e#192#193#0" expanded="true" />
+            <element signature="e#224#225#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#304#305#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
