@@ -2,6 +2,7 @@ package com.example.gittest01;
 
 public class TestOne {
     private int id;
+    private String name;
 
     public int getId() {
         return id;
@@ -11,13 +12,11 @@ public class TestOne {
         this.id = id;
     }
 
-    public int getC() {
-        return c;
+    public String getName() {
+        return name;
     }
 
-    public void setC(int c) {
-        this.c = c;
+    public void setName(String name) {
+        this.name = name;
     }
-
-    private int c;
 }
